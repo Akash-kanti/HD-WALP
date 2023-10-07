@@ -1,6 +1,10 @@
 # hd_wallpaper
 
-A new Flutter project.
+A new Flutter project. 
+//It is a android wallpaper download and set app. User can navigate through different theme directly and also can search their //desired theme to show different wallpaper.
+// user can set it as home screen, lock screen, both screen directly from the app.
+// the set image will be downloaded to the download directory of phone.
+//This app is made using pixel.api.
 
 ## Getting Started
 
